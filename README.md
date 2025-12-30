@@ -12,7 +12,7 @@ Inspirado no desafio **“Natural ou Fake Natty? Como Vencer na Era das IAs Gene
 ## Tecnologias Utilizadas
 - IA Generativa **ChatGPT** para criação de legendas e ideias de conteúdo;
 - Engenharia de Prompt para definição do comportamento do agente;
-- Ferramentas de IA para geração de imagens **Gemini - Nano Banana** ;
+- Ferramentas de IA para geração de imagens **Gemini - Nano Banana e ChatGPT** ;
 - **GitHub** para versionamento e apresentação do projeto.
 
 ---
