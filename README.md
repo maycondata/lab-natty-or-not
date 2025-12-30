@@ -30,6 +30,13 @@ O fluxo de criação seguiu os seguintes passos:
 
 ---
 
+## Prompts Utilizados
+
+Os prompts utilizados para orientar o agente de IA estão documentados neste repositório, garantindo transparência e reprodutibilidade do projeto.
+
+📂 Acesse: [prompts/](./prompts)
+
+
 ## Resultados
 
 Como resultado prático, foi gerado um **post completo para Instagram**, incluindo **texto e imagem criados com IA**, simulando a entrega real de um agente de criação de conteúdo.
